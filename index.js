@@ -1,1 +1,1 @@
-console.log("Hello my Firend)
+const pair="My Boy";
