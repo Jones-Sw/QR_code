@@ -1,1 +1,1 @@
-const pair="My Friend";
+const pair="My Boy";
